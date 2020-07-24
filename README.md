@@ -3,11 +3,11 @@
 ##  
 <p align="center"><b>:ribbon: This is my GitHub profile, here are some of my personal repositories. You can contact me by clicking the welcome banner :ribbon:</b></p>
 
-[![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owl4ce&show_icons=true&theme=tokyonight)](https://github.com/owl4ce)
-
-[![Harry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owl4ce&hide=html&theme=tokyonight)](https://github.com/owl4ce)
+[![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owl4ce&show_icons=true&)](https://github.com/owl4ce)
 
 <!--
+[![Harry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owl4ce&hide=html&theme=tokyonight)](https://github.com/owl4ce)
+
 ### Hi there 👋
 **owl4ce/owl4ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
